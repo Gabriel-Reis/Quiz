@@ -17,3 +17,7 @@ VERSÃO 1.2.0
 VERSÃO 2.0.0
 - Adicionado procedimento apra jogar novamente
 - Adicionado procedimento para agradecimentos
+
+
+- Desenvolvido por: Gabriel Augusto Requena dos Reis
+- Sistemas de informacao - UFOP (2016)
